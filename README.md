@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Classifier using CNN
+ Plant Disease Classifier using CNN
 
 A deep learning model to classify plant diseases from leaf images using a Convolutional Neural Network (CNN) in TensorFlow/Keras.
 
@@ -21,7 +21,7 @@ Built as part of a computer vision and machine learning project to help detect d
 > **Note:**  
 > The trained model (`plant_disease_prediction_model.h5`) is **547 MB** and is **not uploaded to GitHub** due to size limits.
 
-- **Download Model:** [Google Drive Link](https://drive.google.com/drive/folders/1O3VCjkajxUzHYiCLY_-vEHzAe_M5ovAD)
+- **Download Model:** https://drive.google.com/drive/folders/1O3VCjkajxUzHYiCLY_-vEHzAe_M5ovAD
 - After downloading, place `plant_disease_prediction_model.h5` in the **project root folder**.
 
 ---
@@ -33,6 +33,7 @@ Built as part of a computer vision and machine learning project to help detect d
 ```bash
 pip install -r requirements.txt
 ```
+
 
 
 
